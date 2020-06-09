@@ -40,9 +40,9 @@ h6 {
 .leaflet-control-custom {
   padding: 6px 8px;
   background: white;
-  box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.4);
   color: #333;
-  border-radius: 5px;
+  border-radius: 6px;
 }
 
 .leaflet-control-geocoder {
@@ -76,7 +76,7 @@ form {
 }
 
 .geojson-point-marker {
-  radius: 3;
+  radius: 1;
 }
 
 .loader,
