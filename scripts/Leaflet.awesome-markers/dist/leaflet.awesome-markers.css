@@ -6,9 +6,9 @@ Version: 1.0
 
 /* Marker setup */
 .awesome-marker {
-  background: url('images/airbnb-brands.svg') no-repeat 0 0;
-  width: 35px;
-  height: 46px;
+  background: url('images/circle.png') no-repeat 0 0;
+  width: 20px;
+  height: 20px;
   position:absolute;
   left:0;
   top:0;
