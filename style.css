@@ -67,12 +67,12 @@ form {
 }
 
 .leaflet-popup-content {
-  min-width: 50px;
+  min-width: 20px;
   max-height:75px; 
 }
 
 .leaflet-popup-content img {
-  width: 100%;
+  width: 50%;
   margin: 5px 0 5px 0;
 }
 
