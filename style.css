@@ -76,6 +76,15 @@ form {
   margin: 5px 0 5px 0;
 }
 
+.points-label {
+  position: absolute;
+  left: -15px;
+  color: #444;
+  font-weight: bold;
+  opacity: 0.9;
+  pointer-events: none !important;
+}
+
 .geojson-point-marker {
   radius: 1;
 }
